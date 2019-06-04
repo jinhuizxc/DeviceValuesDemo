@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeviceValuesDemo</string>
+    <string name="perms_call_phone">您的App需要打电话的权限，请您点击确定授权</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="returned_to_activity">已取消授权</string>
+</resources>
